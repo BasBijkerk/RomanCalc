@@ -1,0 +1,30 @@
+C:\Users\basbi\source\repos\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\basbi\source\repos\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\basbi\source\repos\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\MainWindow.g.cs
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\App.g.cs
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\MainWindow.baml
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.g.resources
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\basbi\source\repos\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\MainWindow.g.cs
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\App.g.cs
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator_MarkupCompile.lref
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.pdb
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\bin\Release\Calculator.exe.config
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\bin\Release\Calculator.exe
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\bin\Release\Calculator.pdb
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\MainWindow.baml
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.g.resources
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\Calculator - Copy\Calculator\obj\Release\Calculator.exe

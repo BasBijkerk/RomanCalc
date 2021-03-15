@@ -1,0 +1,15 @@
+C:\Users\basbi\source\repos\RomanCalc\Calculator\bin\Debug\RomanCalc.exe.config
+C:\Users\basbi\source\repos\RomanCalc\Calculator\bin\Debug\RomanCalc.exe
+C:\Users\basbi\source\repos\RomanCalc\Calculator\bin\Debug\RomanCalc.pdb
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.csprojAssemblyReference.cache
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\App.g.cs
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc_MarkupCompile.cache
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc_MarkupCompile.lref
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\MainWindow.baml
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.g.resources
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.Properties.Resources.resources
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.csproj.GenerateResource.cache
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.csproj.CoreCompileInputs.cache
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.exe
+C:\Users\basbi\source\repos\RomanCalc\Calculator\obj\Debug\RomanCalc.pdb
